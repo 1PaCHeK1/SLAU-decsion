@@ -1,0 +1,3 @@
+﻿  gauss.cpp
+C:\Users\PaCHeK\source\repos\gauss\gauss\gauss.cpp(136,9): warning C4101: j: неиспользованная локальная переменная
+  gauss.vcxproj -> C:\Users\PaCHeK\source\repos\gauss\Debug\gauss.exe
